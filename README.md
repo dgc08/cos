@@ -7,6 +7,3 @@ A addon to the OS package. I added my cnstall script too.<br>
 ####  |cnstall: A module to program/generate installers. Example functions:<br>
     ||generate: Generates an installer for a file or ZIP-Folder.<br>
     ||main: An interactive installer gerator with generate(). Execute the file cnstaller.py to call the function.<br>
-## Install
-
-> $ pip install cos
