@@ -1,4 +1,4 @@
-#THIS IS DEPRECATED. USE STL INSTEAD (released not later than the 13. Nov. 2022)
+# THIS IS DEPRECATED. USE STL INSTEAD (released not later than the 13. Nov. 2022)
 
 ## cos
 cOS Python Package
