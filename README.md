@@ -1,6 +1,6 @@
 #THIS IS DEPRECATED. USE STL INSTEAD (released not later than the 13. Nov. 2022)
 
-# cos
+## cos
 cOS Python Package
 
 A addon to the OS package. I added my cnstall script too.<br>
